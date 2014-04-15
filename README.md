@@ -1,7 +1,7 @@
-Grunt front-end boilerplat
+Grunt Backbone  front-end boilerplat
 ===================
 
-Repository for frontend development with RequireJS, including Javascript, RespondJS, HTML, 
+Repository for frontend development with RequireJS, including Javascript, Backbone,  RespondJS, HTML, 
 Handlebars, SASS, Compass and assets. The frontend can be automatically built and optimized 
 with [grunt](http://gruntjs.com/) tasks.
 
