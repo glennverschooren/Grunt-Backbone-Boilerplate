@@ -57,7 +57,7 @@ define([
 
         root: function() {
 
-        	
+        	console.log('run this root');
          
         },
 
